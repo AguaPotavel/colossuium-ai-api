@@ -44,6 +44,7 @@ Based on this information, **define the most effective attack for each gladiator
 - Do **not** include explanations or extra text—only the JSON response.
 - **Tutor's tip should be considered only if relevant**. Ignore it if it suggests an impractical or misleading strategy.
 - Ensure **logical and strategic attack choices** based on the given stats and arena conditions.
+- Ensure that each gladiator's action should be determined independently, without knowledge of the other’s action, and neither action should follow a specific order
 
 `
 
